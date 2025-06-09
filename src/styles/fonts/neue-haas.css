@@ -1,0 +1,63 @@
+/* Neue Haas Grotesk Display Pro */
+@font-face {
+  font-family: 'Neue Haas Display Pro';
+  src: local('Neue Haas Display Black'),
+       url('/fonts/neue-haas/NeueHaasDisplayBlack.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Haas Display Pro';
+  src: local('Neue Haas Display Bold'),
+       url('/fonts/neue-haas/NeueHaasDisplayBold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Neue Haas Display Pro';
+  src: local('Neue Haas Display Medium'),
+       url('/fonts/neue-haas/NeueHaasDisplayMediu.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Neue Haas Display Pro';
+  src: local('Neue Haas Display Roman'),
+       url('/fonts/neue-haas/NeueHaasDisplayRoman.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Haas Display Pro';
+  src: local('Neue Haas Display Light'),
+       url('/fonts/neue-haas/NeueHaasDisplayLight.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: optional;
+}
+
+@font-face {
+  font-family: 'Neue Haas Display Pro';
+  src: local('Neue Haas Display Thin'),
+       url('/fonts/neue-haas/NeueHaasDisplayThin.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: optional;
+}
+
+@font-face {
+  font-family: 'Neue Haas Display Pro';
+  src: local('Neue Haas Display Extra Thin'),
+       url('/fonts/neue-haas/NeueHaasDisplayXThin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: optional;
+} 

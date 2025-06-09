@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: local('Barlow Semi Condensed Black'),
+       url('/fonts/barlow/BarlowSemiCondensed-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: local('Barlow Semi Condensed Extra Bold'),
+       url('/fonts/barlow/BarlowSemiCondensed-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: local('Barlow Semi Condensed Bold'),
+       url('/fonts/barlow/BarlowSemiCondensed-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: local('Barlow Semi Condensed Semi Bold'),
+       url('/fonts/barlow/BarlowSemiCondensed-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: local('Barlow Semi Condensed Medium'),
+       url('/fonts/barlow/BarlowSemiCondensed-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: local('Barlow Semi Condensed Regular'),
+       url('/fonts/barlow/BarlowSemiCondensed-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: local('Barlow Semi Condensed Light'),
+       url('/fonts/barlow/BarlowSemiCondensed-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: local('Barlow Semi Condensed Extra Light'),
+       url('/fonts/barlow/BarlowSemiCondensed-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: local('Barlow Semi Condensed Thin'),
+       url('/fonts/barlow/BarlowSemiCondensed-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+} 
