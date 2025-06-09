@@ -5,17 +5,21 @@ import { GlobalStyles } from './styles/GlobalStyles';
 
 // Loading component for Suspense
 const Loading = () => (
-  <div style={{ 
-    display: 'flex', 
-    justifyContent: 'center', 
-    alignItems: 'center', 
-    height: '100vh' 
-  }}>
+  <div
+    style={{
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      height: '100vh',
+    }}
+  >
     Loading...
   </div>
 );
 
-const router = createBrowserRouter(routes);
+const router = createBrowserRouter(routes, {
+  basename: '/Test_FE',
+});
 
 function App() {
   return (
@@ -26,4 +30,4 @@ function App() {
   );
 }
 
-export default App; 
+export default App;

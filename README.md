@@ -1,5 +1,7 @@
 # Bài Test FE 
 
+Link Deploy: https://hoangndm95.github.io/Test_FE/
+
 Link Figma: https://www.figma.com/design/hmpcx7ExksgznDanSeShZq/Ba%CC%80i-test?node-id=2-7&p=f
 
 ## Desktop View
